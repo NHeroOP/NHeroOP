@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with Minecraft Servers Owners
 - 📫 How to reach me - Just Dm Me On Discord - NHero#5163
 
-                    ### MY INTRODUCTION
+                     > MY INTRODUCTION
 
      **Hi Im NHero Best Minecraft Server Developer In India
      I Have Knowledge Of BungeeCord, Redis Network, Virtual Private Server [VPS] , Minecraft Server Developing , Minecraft Mod Developing.
@@ -18,5 +18,5 @@
 
 ***Thanks For Reading.
 Regards
-NHero
+NHero***
 --->

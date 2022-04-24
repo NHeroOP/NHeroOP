@@ -15,7 +15,7 @@ Minigames , Survival , Skywars , Lifesteal , Vanilla Survival etc and more thing
 bungee Commands Like /send player server, /send player player2 and more
 I Can Make Trial Server Before You Can Add Me In Ur Developing Team.
 
-Thanks For Reading
+Thanks For Reading.
 Regards
 NHero
 --->

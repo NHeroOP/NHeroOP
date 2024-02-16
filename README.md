@@ -21,7 +21,7 @@ I'm currently on an exciting journey in the world of web development, exploring 
 
 I'm working on a variety of projects to apply and reinforce my learning. Here are a few highlights:
 
-- [Project 1](https://github.com/NHeroOP/product-preview-card-component/): A project where I applied HTML, CSS, and Tailwind to create a Card Component.
+- [Project 1](https://nheroop.github.io/product-preview-card-component/): A project where I applied HTML, CSS, and Tailwind to create a Card Component.
 <!-- [Project 2](link): An ongoing project using React to build a dynamic single-page application (SPA).
 - [Project 3](link): Experimenting with Next.js to understand server-side rendering and its advantages. -->
 

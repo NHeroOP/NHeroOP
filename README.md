@@ -29,5 +29,3 @@ I'm always open to collaboration, learning opportunities, and connecting with fe
 Let's build something amazing together! 🚀
 
 ---
-
-Feel free to customize it further with your own projects, experiences, and contact information!

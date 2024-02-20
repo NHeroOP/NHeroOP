@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your profile:
-
 ---
 
 # Hi there! 👋

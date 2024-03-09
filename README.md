@@ -19,8 +19,8 @@ I'm currently on an exciting journey in the world of web development, exploring 
 
 I'm working on a variety of projects to apply and reinforce my learning. Here are a few highlights:
 
-- [Project 1](https://nheroop.github.io/product-preview-card-component/): A project where I applied HTML, CSS, and Tailwind to create a Card Component.
-- [Project 2](https://nheroop.github.io/music-player-js/): An ongoing project using HTML, CSS, Mainly JAVASCRIPT to create a Music Player.
+- [Project 1](https://github.com/NHeroOP/Expense-Tracker): A project where I applied React and Tailwind to create a Expense Tracker.
+<!-- [Project 2](https://nheroop.github.io/music-player-js/): An ongoing project using HTML, CSS, Mainly JAVASCRIPT to create a Music Player. -->
 <!-- [Project 3](link): Experimenting with Next.js to understand server-side rendering and its advantages. -->
 
 ## Get in Touch

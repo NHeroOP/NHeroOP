@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [nhero.tech](https://nhero.tech)
+- 👨‍💻 All of my projects are available at **soon**
 
 - 💬 Ask me about **React, NextJS**
 

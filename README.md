@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm NHero</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/NHeroOP/chat-app)
+- 🔭 I’m currently working on studying
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning nothing
 
-- 👨‍💻 All of my projects are available at **soon**
-
-- 💬 Ask me about **React, NextJS**
-
-- 📫 How to reach me **soon**
-
-- ⚡ Fun fact **I do coding as hobby**
+- 📫 How to reach me **Discord: nhero5163**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

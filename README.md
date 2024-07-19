@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm NHero</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on studying
+- 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently studying
 
 - 📫 How to reach me **Discord: nhero5163**
 

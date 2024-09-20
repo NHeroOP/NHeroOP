@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NHero</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on a Private Project
+- 🔭 I’m currently working on a [Notes Sharing App - Personal Project]("https://github.com/NHeroOP/note-flare-web)
 
 - 🌱 I’m currently studying React Native
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NHero</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 📫 How to reach me **Discord: nhero5163**
+- 📫 How to reach me **Discord: nhero5163** or **nhero.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
